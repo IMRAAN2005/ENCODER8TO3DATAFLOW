@@ -61,8 +61,12 @@ assign b=din[2] | din[3] | din[6] | din[7];
 assign c=din[2] | din[4] | din[6] | din[7];
 endmodule
 
-Developed by: RIYA P L
-RegisterNumber: 212223240141
+
+
+
+
+
+
 */
 ```
 
